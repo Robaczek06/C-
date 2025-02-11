@@ -1,0 +1,7 @@
+E:\c#\Pociąg\Pociąg\bin\Debug\Pociąg.exe.config
+E:\c#\Pociąg\Pociąg\bin\Debug\Pociąg.exe
+E:\c#\Pociąg\Pociąg\bin\Debug\Pociąg.pdb
+E:\c#\Pociąg\Pociąg\obj\Debug\Pociąg.csproj.AssemblyReference.cache
+E:\c#\Pociąg\Pociąg\obj\Debug\Pociąg.csproj.CoreCompileInputs.cache
+E:\c#\Pociąg\Pociąg\obj\Debug\Pociąg.exe
+E:\c#\Pociąg\Pociąg\obj\Debug\Pociąg.pdb

@@ -1,0 +1,7 @@
+E:\c#\prostokąt\prostokąt\bin\Debug\prostokąt.exe.config
+E:\c#\prostokąt\prostokąt\bin\Debug\prostokąt.exe
+E:\c#\prostokąt\prostokąt\bin\Debug\prostokąt.pdb
+E:\c#\prostokąt\prostokąt\obj\Debug\prostokąt.csproj.AssemblyReference.cache
+E:\c#\prostokąt\prostokąt\obj\Debug\prostokąt.csproj.CoreCompileInputs.cache
+E:\c#\prostokąt\prostokąt\obj\Debug\prostokąt.exe
+E:\c#\prostokąt\prostokąt\obj\Debug\prostokąt.pdb

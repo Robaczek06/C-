@@ -1,0 +1,7 @@
+E:\c#\sito\sito\bin\Debug\sito.exe.config
+E:\c#\sito\sito\bin\Debug\sito.exe
+E:\c#\sito\sito\bin\Debug\sito.pdb
+E:\c#\sito\sito\obj\Debug\sito.csproj.AssemblyReference.cache
+E:\c#\sito\sito\obj\Debug\sito.csproj.CoreCompileInputs.cache
+E:\c#\sito\sito\obj\Debug\sito.exe
+E:\c#\sito\sito\obj\Debug\sito.pdb

@@ -1,0 +1,7 @@
+E:\c#\pozycja\pozycja\obj\Debug\pozycja.csproj.AssemblyReference.cache
+E:\c#\pozycja\pozycja\obj\Debug\pozycja.csproj.CoreCompileInputs.cache
+E:\c#\pozycja\pozycja\bin\Debug\pozycja.exe.config
+E:\c#\pozycja\pozycja\bin\Debug\pozycja.exe
+E:\c#\pozycja\pozycja\bin\Debug\pozycja.pdb
+E:\c#\pozycja\pozycja\obj\Debug\pozycja.exe
+E:\c#\pozycja\pozycja\obj\Debug\pozycja.pdb
