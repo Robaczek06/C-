@@ -1,0 +1,7 @@
+E:\c#\tablice\tablice\bin\Debug\tablice.exe.config
+E:\c#\tablice\tablice\bin\Debug\tablice.exe
+E:\c#\tablice\tablice\bin\Debug\tablice.pdb
+E:\c#\tablice\tablice\obj\Debug\tablice.csproj.AssemblyReference.cache
+E:\c#\tablice\tablice\obj\Debug\tablice.csproj.CoreCompileInputs.cache
+E:\c#\tablice\tablice\obj\Debug\tablice.exe
+E:\c#\tablice\tablice\obj\Debug\tablice.pdb

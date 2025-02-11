@@ -1,0 +1,7 @@
+E:\c#\Śmietnik\Śmietnik\obj\Debug\Śmietnik.csproj.AssemblyReference.cache
+E:\c#\Śmietnik\Śmietnik\obj\Debug\Śmietnik.csproj.CoreCompileInputs.cache
+E:\c#\Śmietnik\Śmietnik\bin\Debug\Śmietnik.exe.config
+E:\c#\Śmietnik\Śmietnik\bin\Debug\Śmietnik.exe
+E:\c#\Śmietnik\Śmietnik\bin\Debug\Śmietnik.pdb
+E:\c#\Śmietnik\Śmietnik\obj\Debug\Śmietnik.exe
+E:\c#\Śmietnik\Śmietnik\obj\Debug\Śmietnik.pdb
