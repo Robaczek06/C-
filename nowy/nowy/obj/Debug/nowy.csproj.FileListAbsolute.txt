@@ -1,0 +1,7 @@
+C:\Users\Programista_3\source\repos\nowy\nowy\bin\Debug\nowy.exe.config
+C:\Users\Programista_3\source\repos\nowy\nowy\bin\Debug\nowy.exe
+C:\Users\Programista_3\source\repos\nowy\nowy\bin\Debug\nowy.pdb
+C:\Users\Programista_3\source\repos\nowy\nowy\obj\Debug\nowy.csproj.AssemblyReference.cache
+C:\Users\Programista_3\source\repos\nowy\nowy\obj\Debug\nowy.csproj.CoreCompileInputs.cache
+C:\Users\Programista_3\source\repos\nowy\nowy\obj\Debug\nowy.exe
+C:\Users\Programista_3\source\repos\nowy\nowy\obj\Debug\nowy.pdb

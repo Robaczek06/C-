@@ -1,0 +1,7 @@
+E:\c#\notatki\notatki\bin\Debug\notatki.exe.config
+E:\c#\notatki\notatki\bin\Debug\notatki.exe
+E:\c#\notatki\notatki\bin\Debug\notatki.pdb
+E:\c#\notatki\notatki\obj\Debug\notatki.csproj.AssemblyReference.cache
+E:\c#\notatki\notatki\obj\Debug\notatki.csproj.CoreCompileInputs.cache
+E:\c#\notatki\notatki\obj\Debug\notatki.exe
+E:\c#\notatki\notatki\obj\Debug\notatki.pdb

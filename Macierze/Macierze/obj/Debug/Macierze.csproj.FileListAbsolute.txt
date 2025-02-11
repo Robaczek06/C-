@@ -1,0 +1,7 @@
+E:\c#\Macierze\Macierze\bin\Debug\Macierze.exe.config
+E:\c#\Macierze\Macierze\bin\Debug\Macierze.exe
+E:\c#\Macierze\Macierze\bin\Debug\Macierze.pdb
+E:\c#\Macierze\Macierze\obj\Debug\Macierze.csproj.AssemblyReference.cache
+E:\c#\Macierze\Macierze\obj\Debug\Macierze.csproj.CoreCompileInputs.cache
+E:\c#\Macierze\Macierze\obj\Debug\Macierze.exe
+E:\c#\Macierze\Macierze\obj\Debug\Macierze.pdb

@@ -1,0 +1,14 @@
+C:\Users\Programista_3\Desktop\P.bohdanoawicz\Pesel\Pesel\bin\Debug\Pesel.exe.config
+C:\Users\Programista_3\Desktop\P.bohdanoawicz\Pesel\Pesel\bin\Debug\Pesel.exe
+C:\Users\Programista_3\Desktop\P.bohdanoawicz\Pesel\Pesel\bin\Debug\Pesel.pdb
+C:\Users\Programista_3\Desktop\P.bohdanoawicz\Pesel\Pesel\obj\Debug\Pesel.csproj.AssemblyReference.cache
+C:\Users\Programista_3\Desktop\P.bohdanoawicz\Pesel\Pesel\obj\Debug\Pesel.csproj.CoreCompileInputs.cache
+C:\Users\Programista_3\Desktop\P.bohdanoawicz\Pesel\Pesel\obj\Debug\Pesel.exe
+C:\Users\Programista_3\Desktop\P.bohdanoawicz\Pesel\Pesel\obj\Debug\Pesel.pdb
+E:\c#\Pesel\Pesel\bin\Debug\Pesel.exe.config
+E:\c#\Pesel\Pesel\bin\Debug\Pesel.exe
+E:\c#\Pesel\Pesel\bin\Debug\Pesel.pdb
+E:\c#\Pesel\Pesel\obj\Debug\Pesel.csproj.AssemblyReference.cache
+E:\c#\Pesel\Pesel\obj\Debug\Pesel.csproj.CoreCompileInputs.cache
+E:\c#\Pesel\Pesel\obj\Debug\Pesel.exe
+E:\c#\Pesel\Pesel\obj\Debug\Pesel.pdb

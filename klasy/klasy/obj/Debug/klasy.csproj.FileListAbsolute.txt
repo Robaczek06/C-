@@ -1,0 +1,7 @@
+E:\c#\klasy\klasy\bin\Debug\klasy.exe.config
+E:\c#\klasy\klasy\bin\Debug\klasy.exe
+E:\c#\klasy\klasy\bin\Debug\klasy.pdb
+E:\c#\klasy\klasy\obj\Debug\klasy.csproj.AssemblyReference.cache
+E:\c#\klasy\klasy\obj\Debug\klasy.csproj.CoreCompileInputs.cache
+E:\c#\klasy\klasy\obj\Debug\klasy.exe
+E:\c#\klasy\klasy\obj\Debug\klasy.pdb
