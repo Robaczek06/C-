@@ -1,0 +1,7 @@
+E:\c#\cos\cos\bin\Debug\cos.exe.config
+E:\c#\cos\cos\bin\Debug\cos.exe
+E:\c#\cos\cos\bin\Debug\cos.pdb
+E:\c#\cos\cos\obj\Debug\cos.csproj.AssemblyReference.cache
+E:\c#\cos\cos\obj\Debug\cos.csproj.CoreCompileInputs.cache
+E:\c#\cos\cos\obj\Debug\cos.exe
+E:\c#\cos\cos\obj\Debug\cos.pdb

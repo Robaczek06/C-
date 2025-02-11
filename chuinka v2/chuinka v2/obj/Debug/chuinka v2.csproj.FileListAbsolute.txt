@@ -1,0 +1,7 @@
+E:\c#\chuinka v2\chuinka v2\bin\Debug\chuinka v2.exe.config
+E:\c#\chuinka v2\chuinka v2\bin\Debug\chuinka v2.exe
+E:\c#\chuinka v2\chuinka v2\bin\Debug\chuinka v2.pdb
+E:\c#\chuinka v2\chuinka v2\obj\Debug\chuinka v2.csproj.AssemblyReference.cache
+E:\c#\chuinka v2\chuinka v2\obj\Debug\chuinka v2.csproj.CoreCompileInputs.cache
+E:\c#\chuinka v2\chuinka v2\obj\Debug\chuinka v2.exe
+E:\c#\chuinka v2\chuinka v2\obj\Debug\chuinka v2.pdb

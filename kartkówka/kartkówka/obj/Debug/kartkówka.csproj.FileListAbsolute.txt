@@ -1,0 +1,7 @@
+E:\c#\kartkówka\kartkówka\bin\Debug\kartkówka.exe.config
+E:\c#\kartkówka\kartkówka\bin\Debug\kartkówka.exe
+E:\c#\kartkówka\kartkówka\bin\Debug\kartkówka.pdb
+E:\c#\kartkówka\kartkówka\obj\Debug\kartkówka.csproj.AssemblyReference.cache
+E:\c#\kartkówka\kartkówka\obj\Debug\kartkówka.csproj.CoreCompileInputs.cache
+E:\c#\kartkówka\kartkówka\obj\Debug\kartkówka.exe
+E:\c#\kartkówka\kartkówka\obj\Debug\kartkówka.pdb

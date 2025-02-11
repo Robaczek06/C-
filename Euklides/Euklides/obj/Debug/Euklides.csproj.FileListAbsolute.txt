@@ -1,0 +1,7 @@
+E:\c#\Euklides\Euklides\bin\Debug\Euklides.exe.config
+E:\c#\Euklides\Euklides\bin\Debug\Euklides.exe
+E:\c#\Euklides\Euklides\bin\Debug\Euklides.pdb
+E:\c#\Euklides\Euklides\obj\Debug\Euklides.csproj.AssemblyReference.cache
+E:\c#\Euklides\Euklides\obj\Debug\Euklides.csproj.CoreCompileInputs.cache
+E:\c#\Euklides\Euklides\obj\Debug\Euklides.exe
+E:\c#\Euklides\Euklides\obj\Debug\Euklides.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gra w kości", "gra w kości.csproj", "{805DF7CF-7F3F-4F5A-9AF1-F8E9A88C0A57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{805DF7CF-7F3F-4F5A-9AF1-F8E9A88C0A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{805DF7CF-7F3F-4F5A-9AF1-F8E9A88C0A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{805DF7CF-7F3F-4F5A-9AF1-F8E9A88C0A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{805DF7CF-7F3F-4F5A-9AF1-F8E9A88C0A57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BE88527-6492-420F-A42D-E5FC8597EE64}
+	EndGlobalSection
+EndGlobal

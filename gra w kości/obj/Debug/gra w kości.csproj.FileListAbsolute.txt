@@ -1,0 +1,7 @@
+E:\c#\gra w kości\bin\Debug\gra w kości.exe.config
+E:\c#\gra w kości\bin\Debug\gra w kości.exe
+E:\c#\gra w kości\bin\Debug\gra w kości.pdb
+E:\c#\gra w kości\obj\Debug\gra w kości.csproj.AssemblyReference.cache
+E:\c#\gra w kości\obj\Debug\gra w kości.csproj.CoreCompileInputs.cache
+E:\c#\gra w kości\obj\Debug\gra w kości.exe
+E:\c#\gra w kości\obj\Debug\gra w kości.pdb

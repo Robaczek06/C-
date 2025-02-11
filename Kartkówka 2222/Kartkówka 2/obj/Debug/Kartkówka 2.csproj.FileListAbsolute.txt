@@ -1,0 +1,7 @@
+E:\c#\Kartkówka 2\Kartkówka 2\bin\Debug\Kartkówka 2.exe.config
+E:\c#\Kartkówka 2\Kartkówka 2\bin\Debug\Kartkówka 2.exe
+E:\c#\Kartkówka 2\Kartkówka 2\bin\Debug\Kartkówka 2.pdb
+E:\c#\Kartkówka 2\Kartkówka 2\obj\Debug\Kartkówka 2.csproj.AssemblyReference.cache
+E:\c#\Kartkówka 2\Kartkówka 2\obj\Debug\Kartkówka 2.csproj.CoreCompileInputs.cache
+E:\c#\Kartkówka 2\Kartkówka 2\obj\Debug\Kartkówka 2.exe
+E:\c#\Kartkówka 2\Kartkówka 2\obj\Debug\Kartkówka 2.pdb
